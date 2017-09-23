@@ -27,6 +27,7 @@ Hopefully this will drive me to be a better engineer.
 
 ### Python
 
+* [awesome-python](https://github.com/vinta/awesome-python) : A curated list of awesome Python frameworks, libraries
 * [Python Gems](https://github.com/RealHacker/python-gems) : Beautifully constructed python scripts
 * [Python Cheatsheet](https://github.com/juliangaal/python-cheat-sheet)
 * [Python Data Structure & Algorithms](https://github.com/keon/algorithms)
