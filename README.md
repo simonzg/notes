@@ -8,10 +8,6 @@ Hopefully this will drive me to be a better engineer.
 
 * [Hello Github](https://github.com/521xueweihan/HelloGitHub) 分享 GitHub 上好玩、容易上手的项目，帮你找到编程的乐趣。
 
-### GoLang
-
-* [awesome-go](https://github.com/avelino/awesome-go) : A curated list of awesome Go frameworks
-* [ponzu](https://github.com/ponzu-cms/ponzu) : Headless CMS with automatic JSON API.
 
 ### Deep Learning
 
@@ -65,3 +61,6 @@ Hopefully this will drive me to be a better engineer.
 
 * [cupp](https://github.com/Mebus/cupp) : Common User Passwords Profiler (CUPP)
 * [SteCoSteg](https://github.com/cryptolok/SteCoSteg) : SteCoSteg is OutGuess successor and Vernam cipher analog in steganography.
+
+
+[Nakama List](NAKAMA.md)
