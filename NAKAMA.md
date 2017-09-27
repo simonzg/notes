@@ -70,6 +70,20 @@ sudo apt-get update
 sudo apt-get install protobuf
 ```
 
+### Install make
+
+Mac:
+
+```
+xcode-select --install
+```
+
+Ubuntu:
+
+```
+sudo apt-get install build-essential
+```
+
 ### Install CockRoachDB
 
 [website](https://www.cockroachlabs.com/docs/stable/install-cockroachdb.html)
@@ -78,6 +92,15 @@ Mac:
 
 ```
 brew install cockroach
+```
+
+Ubuntu:
+
+```
+wget -qO- https://binaries.cockroachdb.com/cockroach-v1.0.6.linux-amd64.tgz \
+| tar  xvz
+
+cp -i cockroach-v1.0.6.linux-amd64/cockroach /usr/local/bin
 ```
 
 ### Prepare Code
@@ -107,9 +130,11 @@ git clone git@github.com/herioiclabs/nakama
 make gettools
 dep ensure
 make dbstart nakama
+./build/dev/nakama migrate up
+./build/dev/nakama
 ```
 
 ### Reference
 
-[Build Instructions](https://github.com/heroiclabs/nakama)
-[Run nakama](https://heroiclabs.com/docs/install-docker-quickstart/)
+* [Build Instructions](https://github.com/heroiclabs/nakama)
+* [Run nakama](https://heroiclabs.com/docs/install-docker-quickstart/)
