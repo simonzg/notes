@@ -51,7 +51,7 @@ brew upgrade dep
 Ubuntu:
 
 ```
-go get -ui github.com/golang/dep/cmd/dep
+go get -u github.com/golang/dep/cmd/dep
 ```
 
 ### Install protobuf (protoc)
@@ -121,7 +121,7 @@ Then execute:
 cd $GOPATH
 mkdir src
 cd src
-git clone git@github.com/herioiclabs/nakama
+git clone git@github.com/heroiclabs/nakama
 ```
 
 ### Build Nakama
