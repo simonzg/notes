@@ -1,3 +1,8 @@
+### Cheatsheet
+
+* [Go Cheat Sheet](https://github.com/a8m/go-lang-cheat-sheet)
+* [Go Reference Card](https://github.com/a8m/go-lang-cheat-sheet/blob/master/golang_refcard.pdf)
+
 ### Books / Examples
 
 * [The Little Go Book](http://openmymind.net/The-Little-Go-Book/) : Quick Reference
