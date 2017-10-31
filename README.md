@@ -7,10 +7,11 @@ Hopefully this will drive me to be a better engineer.
 ### Github
 
 * [Hello Github](https://github.com/521xueweihan/HelloGitHub) 分享 GitHub 上好玩、容易上手的项目，帮你找到编程的乐趣。
-
+* [Awesome](https://github.com/sindresorhus/awesome) : Curated list of awesome lists
 
 ### Deep Learning
 
+* [Progressive Growing](https://github.com/tkarras/progressive_growing_of_gans) : Progressive Growing of GANs for Improved Quality, Stability, and Variation
 * [TensorFlow Models](https://github.com/tensorflow/models) : Models built with TensorFlow
 * [Effective TensorFlow](https://github.com/vahidk/EffectiveTensorflow) : TensorFlow tutorials and best practices
 * [Oxford Machine Learning Lectures](https://github.com/oxford-cs-deepnlp-2017/lectures) : Oxford Deep NLP course (2017)
@@ -34,8 +35,13 @@ Hopefully this will drive me to be a better engineer.
 
 * [Hackthon Starter](https://github.com/sahat/hackathon-starter) : A boilerplate for Node.js web applications
 
+### Linux
+
+* [Command Line Text Processing](https://github.com/learnbyexample/Command-line-text-processing) : From finding text to search and replace, from sorting to beautifying text and more
+
 ### Front End
 
+* [Front End Checklist](https://github.com/thedaviddias/Front-End-Checklist) : The perfect Front-End Checklist for modern websites and meticulous developers
 * [Web Dev Roadmap 2017](https://github.com/kamranahmedse/developer-roadmap) : Roadmap to becoming a web developer in 2017
 * [Js Training](https://github.com/ruanyf/jstraining) 全栈工程师培训材料
 * [awesome-vue](https://github.com/vuejs/awesome-vue) : A curated list of awesome things related to Vue.js
@@ -55,6 +61,7 @@ Hopefully this will drive me to be a better engineer.
 
 ### Crawler
 
+* [Uncaptcha](https://github.com/ecthros/uncaptcha) : Defeating Google's audio reCaptcha with 85% accuracy. 
 * [Spider Keeper](https://github.com/DormyMo/SpiderKeeper) : admin ui for scrapy/open source scrapinghub
 
 ### Security
