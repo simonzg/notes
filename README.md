@@ -8,10 +8,12 @@ Hopefully this will drive me to be a better engineer.
 
 * [Hello Github](https://github.com/521xueweihan/HelloGitHub) 分享 GitHub 上好玩、容易上手的项目，帮你找到编程的乐趣。
 * [Awesome](https://github.com/sindresorhus/awesome) : Curated list of awesome lists
+* [GitHub Roam](https://github.com/phodal/github-roam) : Github 漫游指南
 
 ### Full-Stack
 
-* [Growth Hacker](https://github.com/phodal/growth-in-action)
+* [Growth Hacker](https://github.com/phodal/growth-in-action) : 全栈增长指南
+* [Growth Hacker in Action](https://github.com/phodal/growth-in-action) : 全栈增长实战
 
 ### Deep Learning
 
