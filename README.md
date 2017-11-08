@@ -9,6 +9,10 @@ Hopefully this will drive me to be a better engineer.
 * [Hello Github](https://github.com/521xueweihan/HelloGitHub) 分享 GitHub 上好玩、容易上手的项目，帮你找到编程的乐趣。
 * [Awesome](https://github.com/sindresorhus/awesome) : Curated list of awesome lists
 
+### Full-Stack
+
+* [Growth Hacker](https://github.com/phodal/growth-in-action)
+
 ### Deep Learning
 
 * [Progressive Growing](https://github.com/tkarras/progressive_growing_of_gans) : Progressive Growing of GANs for Improved Quality, Stability, and Variation
