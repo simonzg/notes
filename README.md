@@ -33,6 +33,7 @@ Hopefully this will drive me to be a better engineer.
 
 ### Node.js
 
+* [Functional Programming Jargon](https://github.com/hemanth/functional-programming-jargon) : Jargon from the functional programming world in simple terms!
 * [Hackthon Starter](https://github.com/sahat/hackathon-starter) : A boilerplate for Node.js web applications
 
 ### Linux
